@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/leetIbrahim/JSNotify.git
+   git clone https://github.com/ibrahim-sec/JSNotify.git
 2. **Install the required Python packages:**
    ```bash
    pip install -r requirements.txt
@@ -52,4 +52,3 @@ Replace `[Your_Telegram_Bot_Token]` and `[Your_Telegram_Chat_ID]` with your actu
 
 
 
-Follow me on Twitter [@leetibrahim](https://twitter.com/leetibrahim) for updates.
